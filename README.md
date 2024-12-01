@@ -1,4 +1,5 @@
 # Research Guidelines for Beginners in AI
+#### This research guidelines is not only for us, it is also for other standard journals. Learn with examples and apply it.
 
 Welcome to the AI Youth Alliance Research Guidelines. This guide is designed for those who are new to AI research, offering clear explanations, detailed definitions, and multiple examples to help you succeed in your research journey. Whether you're exploring AI fundamentals, machine learning, or AI ethics, this guide will walk you through each step of the process.
 
